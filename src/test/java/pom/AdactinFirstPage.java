@@ -71,5 +71,8 @@ public class AdactinFirstPage extends BaseJava {
 	public WebElement getChild() {
 		return child;
 	}
+private void sysout() {
+	System.out.println("srikanth");
 
+}
 }
