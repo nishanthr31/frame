@@ -75,5 +75,11 @@ public class AdactinFirstPage extends BaseJava {
 		// TODO Auto-generated method stub
 
 	}
+private void sysoutd() {
+	System.out.println("srikanth");
 
+	
+
+
+}
 }
